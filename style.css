@@ -1,0 +1,23 @@
+html{
+    font-size: 63%;
+}
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 0 auto;
+    padding: 0;
+}
+main{
+    background-color: aqua;
+    height: auto;
+    padding: 1rem;
+    margin:1rem;
+    justify-content:space-between;
+}
+footer{
+    display:flex;
+    font-size: 1rem;
+    justify-content: center;
+}
+    
+
+
